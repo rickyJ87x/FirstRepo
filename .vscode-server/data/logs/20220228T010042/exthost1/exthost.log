@@ -1,0 +1,14 @@
+[2022-02-28 01:00:44.039] [exthost] [info] Extension host with pid 7886 started
+[2022-02-28 01:00:44.049] [exthost] [info] Lock '/home/rickyj87x/.vscode-server/data/User/workspaceStorage/d5fbd9775a65f76899a2cee995137061/vscode.lock': Lock acquired.
+[2022-02-28 01:00:44.238] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-02-28 01:00:44.346] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-28 01:00:44.352] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-28 01:00:44.587] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-28 01:00:44.742] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-28 01:00:44.883] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-28 01:00:44.919] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-28 01:00:44.930] [exthost] [info] Eager extensions activated
+[2022-02-28 01:00:45.321] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1587
+[2022-02-28 01:15:57.580] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-02-28 01:15:57.584] [exthost] [info] Lock '/home/rickyj87x/.vscode-server/data/User/workspaceStorage/d5fbd9775a65f76899a2cee995137061/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-02-28 01:15:57.731] [exthost] [info] Extension host with pid 7886 exiting with code 0
