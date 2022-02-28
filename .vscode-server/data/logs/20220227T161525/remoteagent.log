@@ -1,0 +1,33 @@
+[2022-02-27 16:15:25.396] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-02-27 16:15:25.397] [remoteagent] [info] Extension host agent started.
+[2022-02-27 16:15:25.467] [remoteagent] [info] [127.0.0.1][dbeb7e12][ManagementConnection] New connection established.
+[2022-02-27 16:15:25.871] [remoteagent] [info] [127.0.0.1][45671b36][ExtensionHostConnection] New connection established.
+[2022-02-27 16:15:25.894] [remoteagent] [info] [127.0.0.1][45671b36][ExtensionHostConnection] <913> Launched Extension Host Process.
+[2022-02-27 16:16:38.862] [remoteagent] [info] [127.0.0.1][bf7e0290][ManagementConnection] New connection established.
+[2022-02-27 16:16:39.158] [remoteagent] [info] [127.0.0.1][72f4df11][ExtensionHostConnection] New connection established.
+[2022-02-27 16:16:39.173] [remoteagent] [info] [127.0.0.1][72f4df11][ExtensionHostConnection] <1071> Launched Extension Host Process.
+[2022-02-27 16:30:36.764] [remoteagent] [info] [127.0.0.1][bf7e0290][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-27 16:30:36.862] [remoteagent] [info] [127.0.0.1][72f4df11][ExtensionHostConnection] <1071> Extension Host Process exited with code: 0, signal: null.
+[2022-02-27 16:58:11.813] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-27 17:14:58.784] [remoteagent] [info] [127.0.0.1][dbeb7e12][ManagementConnection] The client has reconnected.
+[2022-02-27 17:14:59.204] [remoteagent] [info] [127.0.0.1][45671b36][ExtensionHostConnection] The client has reconnected.
+[2022-02-27 18:16:09.020] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-27 18:16:15.503] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-27 22:39:24.643] [remoteagent] [info] [127.0.0.1][dbeb7e12][ManagementConnection] The client has reconnected.
+[2022-02-27 22:39:24.649] [remoteagent] [info] [127.0.0.1][45671b36][ExtensionHostConnection] The client has reconnected.
+[2022-02-27 23:40:18.295] [remoteagent] [info] [127.0.0.1][dbeb7e12][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-27 23:40:18.914] [remoteagent] [info] [127.0.0.1][45671b36][ExtensionHostConnection] <913> Extension Host Process exited with code: 0, signal: null.
+[2022-02-27 23:40:22.074] [remoteagent] [info] [127.0.0.1][3da6a61f][ManagementConnection] New connection established.
+[2022-02-27 23:40:22.719] [remoteagent] [info] [127.0.0.1][d5c287e2][ExtensionHostConnection] New connection established.
+[2022-02-27 23:40:22.725] [remoteagent] [info] [127.0.0.1][d5c287e2][ExtensionHostConnection] <7199> Launched Extension Host Process.
+[2022-02-28 00:19:50.042] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//home/rickyj87x/first' failed: No such file or directory (EUNKNOWN) (path: /)
+[2022-02-28 00:19:50.043] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '//home/rickyj87x/first' failed: No such file or directory

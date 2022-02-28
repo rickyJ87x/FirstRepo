@@ -1,0 +1,33 @@
+[2022-02-27 15:41:48.898] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-02-27 15:41:48.898] [remoteagent] [info] Extension host agent started.
+[2022-02-27 15:41:48.952] [remoteagent] [info] [127.0.0.1][6094583c][ManagementConnection] New connection established.
+[2022-02-27 15:41:49.270] [remoteagent] [info] [127.0.0.1][198c5359][ExtensionHostConnection] New connection established.
+[2022-02-27 15:41:49.327] [remoteagent] [info] [127.0.0.1][198c5359][ExtensionHostConnection] <344> Launched Extension Host Process.
+[2022-02-27 15:41:49.436] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rickyj87x/TicTacToe)
+[2022-02-27 15:41:49.436] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-02-27 15:41:49.601] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rickyj87x/TicTacToe)
+[2022-02-27 15:41:49.601] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-02-27 15:41:49.766] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rickyj87x/TicTacToe)
+[2022-02-27 15:41:49.767] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-02-27 15:41:49.871] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rickyj87x/TicTacToe)
+[2022-02-27 15:41:49.872] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-02-27 15:41:49.966] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rickyj87x/TicTacToe)
+[2022-02-27 15:41:49.967] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-02-27 15:41:50.109] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rickyj87x/TicTacToe)
+[2022-02-27 15:41:50.110] [remoteagent] [error] [File Watcher (universal)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-02-27 15:42:13.809] [remoteagent] [info] [127.0.0.1][6094583c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-27 15:42:13.837] [remoteagent] [info] [127.0.0.1][198c5359][ExtensionHostConnection] <344> Extension Host Process exited with code: 0, signal: null.
+[2022-02-27 15:42:16.786] [remoteagent] [info] [127.0.0.1][302da660][ManagementConnection] New connection established.
+[2022-02-27 15:42:17.070] [remoteagent] [info] [127.0.0.1][9e77a892][ExtensionHostConnection] New connection established.
+[2022-02-27 15:42:17.079] [remoteagent] [info] [127.0.0.1][9e77a892][ExtensionHostConnection] <467> Launched Extension Host Process.
+[2022-02-27 16:15:16.831] [remoteagent] [info] [127.0.0.1][302da660][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-27 16:15:16.907] [remoteagent] [info] [127.0.0.1][9e77a892][ExtensionHostConnection] <467> Extension Host Process exited with code: 0, signal: null.

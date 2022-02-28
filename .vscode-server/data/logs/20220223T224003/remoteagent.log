@@ -1,0 +1,17 @@
+[2022-02-23 22:40:03.890] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-02-23 22:40:03.890] [remoteagent] [info] Extension host agent started.
+[2022-02-23 22:40:03.995] [remoteagent] [info] [127.0.0.1][4ede7dd6][ManagementConnection] New connection established.
+[2022-02-23 22:40:04.291] [remoteagent] [info] [127.0.0.1][0fdb76d0][ExtensionHostConnection] New connection established.
+[2022-02-23 22:40:04.313] [remoteagent] [info] [127.0.0.1][0fdb76d0][ExtensionHostConnection] <3680> Launched Extension Host Process.
+[2022-02-23 23:25:04.099] [remoteagent] [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/rickyj87x/TicTacToe)
+[2022-02-24 00:20:38.168] [remoteagent] [info] [127.0.0.1][4ede7dd6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-24 00:20:38.278] [remoteagent] [info] [127.0.0.1][0fdb76d0][ExtensionHostConnection] <3680> Extension Host Process exited with code: 0, signal: null.
