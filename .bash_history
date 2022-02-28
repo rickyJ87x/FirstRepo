@@ -422,3 +422,29 @@ ls
 git status
 git add .
 git status
+cd
+clear
+git status
+git branch -D main
+git checkout master
+git branch -D main
+clear
+git status
+clear
+git branch
+git branch main
+git checkout main
+clear
+git status
+git commit -m "commit"
+ls
+git add Memory_Game
+git status
+git remote add origin https://github.com/rickyJ87x/MemoryGame.git
+git remote add origin2 https://github.com/rickyJ87x/MemoryGame.git
+git push origin2 main
+git fetch main
+git checkout master
+git commit
+git add .
+git commit
