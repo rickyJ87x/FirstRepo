@@ -1,0 +1,22 @@
+[2022-02-27T21:16:40.487Z] Validating found git in: git
+[2022-02-27T21:16:40.559Z] Using git 2.25.1 from git
+[2022-02-27T21:17:22.675Z] > git rev-parse --git-dir [69ms]
+[2022-02-27T21:17:22.682Z] Open repository: /home/rickyj87x
+[2022-02-27T21:17:22.713Z] > git symbolic-ref --short HEAD [1ms]
+[2022-02-27T21:17:22.718Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/another_branch refs/remotes/another_branch [1ms]
+[2022-02-27T21:17:22.726Z] > git remote --verbose [1ms]
+[2022-02-27T21:17:22.727Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-02-27T21:17:23.409Z] > git config --get commit.template [43ms]
+[2022-02-27T21:17:23.457Z] > git ls-files --stage -- /home/rickyj87x/index.html [1ms]
+[2022-02-27T21:23:31.192Z] > git ls-files --stage -- /home/rickyj87x/index.html [13ms]
+[2022-02-27T21:23:31.200Z] > git symbolic-ref --short HEAD [9ms]
+[2022-02-27T21:23:31.209Z] > git cat-file -s cb183673fb8d33954c7d69465477eb0b77bb2042 [10ms]
+[2022-02-27T21:23:31.210Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/another_branch refs/remotes/another_branch [2ms]
+[2022-02-27T21:23:31.226Z] > git remote --verbose [4ms]
+[2022-02-27T21:23:31.226Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-02-27T21:23:31.313Z] > git config --get commit.template [3ms]
+[2022-02-27T21:23:36.362Z] > git symbolic-ref --short HEAD [2ms]
+[2022-02-27T21:23:36.375Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/another_branch refs/remotes/another_branch [2ms]
+[2022-02-27T21:23:36.396Z] > git remote --verbose [4ms]
+[2022-02-27T21:23:36.397Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+[2022-02-27T21:23:37.242Z] > git config --get commit.template [719ms]
