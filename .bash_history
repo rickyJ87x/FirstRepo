@@ -448,3 +448,77 @@ git checkout master
 git commit
 git add .
 git commit
+cd
+git status
+git commit -m "commiting"
+git status
+git add.bash_history
+git add .bash_history
+git commit -m "commiting"
+clear
+git status
+git branch
+git checkout master
+git status
+ls
+rm app.css
+rm app.js
+rm index.html
+rm -rf first
+git status
+clear
+git add .
+git status
+clear
+git commit -m "deleting and updating"
+git config --user.email rickyJ87x@gmail.com
+git config --user.email "rickyJ87x@gmail.com"
+clear
+git status
+git commit -m "delete and update"
+git config --globl user.email "rickyJ87x@gmail.com"
+git config --global user.email "rickyJ87x@gmail.com"
+git config --global user.name "Richard"
+git commit -m "update and delete"
+git status
+git push
+git branch -D new_branch
+git merge main
+git add .gitconfig
+git commit -m "update"
+git merge main
+git status
+git push
+git log
+cd
+git status
+explorer.exe .
+git status
+cd
+git status
+ls -a
+cd
+explorer.exe .
+cd
+explorer.exe .
+git status
+git log
+cd
+git status
+git branch
+git push
+code
+ls
+rmdir Memory_Game/
+git status
+git add index.html
+git add script.js
+git add style.css
+git commit -m "add memory game files"
+git add .gitconfig
+git commit -m "add memory game files"
+git config --global user.email rickyJ87x@gmail.com
+git config --global user Richard
+git config --global user.name Richard
+git commit -m "add memory game files"
+git push
