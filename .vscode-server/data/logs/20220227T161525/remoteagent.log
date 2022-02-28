@@ -29,3 +29,5 @@
 [2022-02-27 23:40:22.074] [remoteagent] [info] [127.0.0.1][3da6a61f][ManagementConnection] New connection established.
 [2022-02-27 23:40:22.719] [remoteagent] [info] [127.0.0.1][d5c287e2][ExtensionHostConnection] New connection established.
 [2022-02-27 23:40:22.725] [remoteagent] [info] [127.0.0.1][d5c287e2][ExtensionHostConnection] <7199> Launched Extension Host Process.
+[2022-02-28 00:19:50.042] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//home/rickyj87x/first' failed: No such file or directory (EUNKNOWN) (path: /)
+[2022-02-28 00:19:50.043] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '//home/rickyj87x/first' failed: No such file or directory

@@ -377,3 +377,48 @@ git status
 cd ..
 cd
 git status
+cd
+git status
+cd
+clear
+git status
+git log
+git branch
+ls
+touch app.js
+git status
+git add app.js
+git commit -m "add app.js"
+git log --oneline
+git remote add origin https://github.com/rickyJ87x/FirstRepo.git
+git remote -v
+git push -u origin master
+git branch
+git checkout new_branch 
+ls
+git status
+git add app.css
+git add index.html
+git status
+git commit -m "adding app.css and index.html"
+git push
+git push origin new_branch 
+git branch
+git checkout master
+ls
+git push 
+git add Memory_Game
+git status
+git commit -m "add memory game"
+git push
+git branch main
+git checkout main
+ls
+rm app.css
+rm app.js
+rm index.html
+rm -rf first
+ls
+git status
+git add .
+git status
