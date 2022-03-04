@@ -1,0 +1,28 @@
+[2022-03-01 18:01:30.766] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-03-01 18:01:30.766] [remoteagent] [info] Extension host agent started.
+[2022-03-01 18:01:31.047] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] New connection established.
+[2022-03-01 18:01:31.392] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] New connection established.
+[2022-03-01 18:01:31.407] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] <1436> Launched Extension Host Process.
+[2022-03-02 19:08:49.282] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-02 19:08:49.403] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-02 19:44:59.535] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-02 22:42:19.151] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-02 22:42:28.440] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-02 23:42:31.439] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-04 09:05:59.409] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-04 09:05:59.443] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-04 09:22:29.621] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-04 09:23:24.969] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-04 11:05:19.551] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-04 11:05:19.980] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-04 12:56:43.707] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-04 12:56:48.948] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.

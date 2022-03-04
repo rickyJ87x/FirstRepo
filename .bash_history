@@ -522,3 +522,78 @@ git config --global user Richard
 git config --global user.name Richard
 git commit -m "add memory game files"
 git push
+cd
+git status
+git add .bash_history .config/wslu/baseexec .config/wslu/oemcp Memory_Game/index.html Memory_Game/script.js Memory_Game/style.css
+git status
+git add .vscode-server/data/User/workspaceStorage/d5fbd9775a65f76899a2cee995137061/vscode.lock
+git commit -m "cleanup git"
+git status
+git push
+clear
+git status
+git add .gitconfig .vscode-server/data/logs/20220228T010042/
+git status
+git commit -m "more cleanup git"
+git push
+git status
+clear
+code
+git status
+ls
+ls -a
+clear
+cd ..
+git status
+git init
+cd ..
+git status
+git init
+cd
+git status
+clear
+mkdir new_directory
+cd new_directory/
+git status
+git init
+git status
+rmdir new_directory
+cd ..
+rmdir new_directory/
+rmdir -rf new_directory/
+git status
+git ignore .vscode-server/data/User/ .vscode-server/data/logs/20220228T182708/ new_directory/
+git status
+ls
+rmdir new_directory
+cd new_directory/
+ls
+ls -a
+cd ..
+man rmdir
+rmdir -r new_directory/
+rmdir -R new_directory/
+rm -r new_directory/
+ls
+mkdir jasmine
+cdjasmine
+cd jasmine
+touch index.html app.css app.js
+ls
+code
+git status
+code
+git add jasmine
+cd ..
+git add jasmine
+git status
+git commit -m "add jasmine directory"
+git push
+ls
+cd
+ls
+cd jasmine
+mkdir my-project/jasmine
+cd ..
+ls -a
+git status
