@@ -1,0 +1,15 @@
+[2022-02-28T04:40:24.639Z] Validating found git in: git
+[2022-02-28T04:40:24.741Z] Using git 2.25.1 from git
+[2022-02-28T04:40:24.858Z] > git rev-parse --git-dir [2ms]
+[2022-02-28T04:40:24.871Z] Open repository: /home/rickyj87x
+[2022-02-28T04:40:25.029Z] > git symbolic-ref --short HEAD [47ms]
+[2022-02-28T04:40:25.043Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/new_branch refs/remotes/new_branch [5ms]
+[2022-02-28T04:40:25.116Z] > git remote --verbose [49ms]
+[2022-02-28T04:40:25.117Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [61ms]
+[2022-02-28T04:40:26.450Z] > git config --get commit.template [160ms]
+[2022-02-28T04:40:26.686Z] > git ls-files --stage -- /home/rickyj87x/index.html [46ms]
+[2022-02-28T04:40:26.697Z] > git cat-file -s 7ea637b08184833e73b578c6cdc053f26b2c47ba [1ms]
+[2022-02-28T04:47:19.216Z] > git ls-files --stage -- /home/rickyj87x/Memory Game/index.html [2ms]
+[2022-02-28T04:47:41.054Z] > git ls-files --stage -- /home/rickyj87x/Memory Game/script.js [10ms]
+[2022-02-28T04:47:53.869Z] > git ls-files --stage -- /home/rickyj87x/Memory Game/style.css [3ms]
+[2022-02-28T04:50:31.488Z] > git ls-files --stage -- /home/rickyj87x/Memory_Game/style.css [20ms]

@@ -1,0 +1,10 @@
+[2022-03-10 23:11:39.013] [remoteagent] [info] Extension host agent started.
+[2022-03-10 23:11:39.174] [remoteagent] [info] [127.0.0.1][40edc008][ManagementConnection] New connection established.
+[2022-03-10 23:11:39.488] [remoteagent] [info] [127.0.0.1][63e55cfd][ExtensionHostConnection] New connection established.
+[2022-03-10 23:11:39.503] [remoteagent] [info] [127.0.0.1][63e55cfd][ExtensionHostConnection] <173> Launched Extension Host Process.
+[2022-03-10 23:25:34.011] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//mnt/c/Users/ricky/AppData/Local/Microsoft/Office/SolutionPackages/dadc04c6091d0dac542a4720cab72afa/PackageResources/dist/intl/tt-RU' failed: No such file or directory (EUNKNOWN) (path: /)
+[2022-03-10 23:25:34.012] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '//mnt/c/Users/ricky/AppData/Local/Microsoft/Office/SolutionPackages/dadc04c6091d0dac542a4720cab72afa/PackageResources/dist/intl/tt-RU' failed: No such file or directory
+[2022-03-10 23:38:16.589] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//proc/1/task/419/net/bonding' failed: No such file or directory (EUNKNOWN) (path: /)
+[2022-03-10 23:38:16.590] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '//proc/1/task/419/net/bonding' failed: No such file or directory
+[2022-03-10 23:51:31.198] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '//home/rickyj87x/.vscode-server/bin/8908a9ca0f221f36507231afb39d2d8d1e182702/node_modules/number-is-nan' failed: No such file or directory (EUNKNOWN) (path: /)
+[2022-03-10 23:51:31.198] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '//home/rickyj87x/.vscode-server/bin/8908a9ca0f221f36507231afb39d2d8d1e182702/node_modules/number-is-nan' failed: No such file or directory

@@ -1,0 +1,56 @@
+[2022-03-01 18:01:30.766] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-03-01 18:01:30.766] [remoteagent] [info] Extension host agent started.
+[2022-03-01 18:01:31.047] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] New connection established.
+[2022-03-01 18:01:31.392] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] New connection established.
+[2022-03-01 18:01:31.407] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] <1436> Launched Extension Host Process.
+[2022-03-02 19:08:49.282] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-02 19:08:49.403] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-02 19:44:59.535] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-02 22:42:19.151] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-02 22:42:28.440] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-02 23:42:31.439] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-04 09:05:59.409] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-04 09:05:59.443] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-04 09:22:29.621] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-04 09:23:24.969] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-04 11:05:19.551] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-04 11:05:19.980] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-04 12:56:43.707] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-04 12:56:48.948] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-04 13:55:25.363] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-04 13:55:25.679] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-04 15:20:39.208] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-04 15:20:39.410] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-04 16:59:18.483] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-05 08:27:35.012] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-05 08:27:36.699] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-05 09:10:11.806] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-05 22:25:17.576] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-05 22:25:18.394] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-06 07:47:25.713] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-06 07:47:26.358] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-06 11:21:24.971] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-06 11:21:24.988] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-06 13:06:34.347] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-06 13:07:18.526] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-06 16:02:42.012] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-06 16:02:42.211] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-06 16:03:00.471] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-07 05:46:19.690] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-07 05:46:19.710] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-07 06:10:15.976] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-07 06:10:16.364] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-07 06:42:15.794] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-07 06:42:16.030] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-07 07:01:16.012] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has reconnected.
+[2022-03-07 07:01:16.187] [remoteagent] [info] [127.0.0.1][fc5fffec][ExtensionHostConnection] The client has reconnected.
+[2022-03-07 07:04:31.022] [remoteagent] [info] [127.0.0.1][5923bdf7][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

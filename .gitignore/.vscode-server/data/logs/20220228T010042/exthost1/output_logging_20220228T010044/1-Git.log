@@ -1,0 +1,11 @@
+[2022-02-28T06:00:44.791Z] Validating found git in: git
+[2022-02-28T06:00:44.855Z] Using git 2.25.1 from git
+[2022-02-28T06:00:44.954Z] > git rev-parse --git-dir [3ms]
+[2022-02-28T06:00:44.969Z] Open repository: /home/rickyj87x
+[2022-02-28T06:00:45.148Z] > git symbolic-ref --short HEAD [40ms]
+[2022-02-28T06:00:45.181Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [18ms]
+[2022-02-28T06:00:45.210Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+[2022-02-28T06:00:45.222Z] > git remote --verbose [19ms]
+[2022-02-28T06:00:46.603Z] > git ls-files --stage -- /home/rickyj87x/Memory_Game/style.css [17ms]
+[2022-02-28T06:00:46.613Z] > git cat-file -s 6b03d380de24f2d6d651845d035b9d01fd4a4334 [2ms]
+[2022-02-28T06:01:31.741Z] > git ls-files --stage -- /home/rickyj87x/style.css [4ms]

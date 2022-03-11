@@ -1,0 +1,16 @@
+[2022-03-10 23:11:43.639] [exthost] [info] Extension host with pid 173 started
+[2022-03-10 23:11:43.675] [exthost] [info] Lock '/home/rickyj87x/.vscode-server/data/User/workspaceStorage/d5fbd9775a65f76899a2cee995137061/vscode.lock': Lock acquired.
+[2022-03-10 23:11:45.380] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-03-10 23:11:45.782] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-10 23:11:45.802] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-10 23:11:45.822] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-10 23:11:46.821] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-10 23:11:47.368] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-10 23:11:47.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-10 23:11:47.896] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-10 23:11:47.909] [exthost] [info] Eager extensions activated
+[2022-03-10 23:11:49.083] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2828
+[2022-03-10 23:50:52.596] [exthost] [error] Error: ENOENT: no such file or directory, open '/home/rickyj87x/.vscode-server/data/User/workspaceStorage/d5fbd9775a65f76899a2cee995137061/vscode.lock'
+[2022-03-10 23:50:52.597] [exthost] [info] Lock '/home/rickyj87x/.vscode-server/data/User/workspaceStorage/d5fbd9775a65f76899a2cee995137061/vscode.lock': The lock was lost unexpectedly.
+[2022-03-10 23:50:52.599] [exthost] [error] Error: ENOENT: no such file or directory, utime '/home/rickyj87x/.vscode-server/data/User/workspaceStorage/d5fbd9775a65f76899a2cee995137061/vscode.lock'
+[2022-03-10 23:50:52.599] [exthost] [info] Lock '/home/rickyj87x/.vscode-server/data/User/workspaceStorage/d5fbd9775a65f76899a2cee995137061/vscode.lock': Could not update mtime.
